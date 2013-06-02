@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ls3/development/!svn/ver/8797/lzh/ner-annotation-service-de/target/ner-annotation-de/WEB-INF
+END
+application_context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ls3/development/!svn/ver/8797/lzh/ner-annotation-service-de/target/ner-annotation-de/WEB-INF/application_context.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ls3/development/!svn/ver/8797/lzh/ner-annotation-service-de/target/ner-annotation-de/WEB-INF/web.xml
+END

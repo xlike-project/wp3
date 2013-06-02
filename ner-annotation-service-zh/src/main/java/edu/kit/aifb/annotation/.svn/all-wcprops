@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ls3/development/!svn/ver/8826/lzh/ner-annotation-service-zh/src/main/java/edu/kit/aifb/annotation
+END
+WikiAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/ls3/development/!svn/ver/8826/lzh/ner-annotation-service-zh/src/main/java/edu/kit/aifb/annotation/WikiAnnotation.java
+END
+Description.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/ls3/development/!svn/ver/8826/lzh/ner-annotation-service-zh/src/main/java/edu/kit/aifb/annotation/Description.java
+END
+Mention.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/ls3/development/!svn/ver/8826/lzh/ner-annotation-service-zh/src/main/java/edu/kit/aifb/annotation/Mention.java
+END
+AnnotationServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/ls3/development/!svn/ver/8886/lzh/ner-annotation-service-zh/src/main/java/edu/kit/aifb/annotation/AnnotationServlet.java
+END
+Entity.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ls3/development/!svn/ver/8886/lzh/ner-annotation-service-zh/src/main/java/edu/kit/aifb/annotation/Entity.java
+END

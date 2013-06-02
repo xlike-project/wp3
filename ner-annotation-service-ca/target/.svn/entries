@@ -1,0 +1,71 @@
+10
+
+dir
+8824
+https://svn.aifb.kit.edu/ls3/development/lzh/ner-annotation-service-ca/target
+https://svn.aifb.kit.edu/ls3/development
+
+
+
+2012-12-12T19:09:41.007733Z
+8824
+lzh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e3c52453-1331-0410-99df-ad11c989bd47
+
+maven-archiver
+dir
+
+ner-annotation-ca
+dir
+
+ner-annotation-ca.war
+file
+8903
+
+
+
+2012-12-26T02:55:44.000000Z
+b5cc42c4fd295cda27efe85de0a118fa
+2012-12-28T20:49:55.164908Z
+8903
+lzh
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24377761
+
+test-classes
+dir
+

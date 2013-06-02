@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/ls3/development/!svn/ver/8798/lzh/ner-annotation-service-es/target/ner-annotation-es/WEB-INF/classes/edu/kit/aifb/annotation
+END
+AnnotationServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/ls3/development/!svn/ver/8903/lzh/ner-annotation-service-es/target/ner-annotation-es/WEB-INF/classes/edu/kit/aifb/annotation/AnnotationServlet.class
+END
+Mention.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/ls3/development/!svn/ver/8798/lzh/ner-annotation-service-es/target/ner-annotation-es/WEB-INF/classes/edu/kit/aifb/annotation/Mention.class
+END
+Description.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/ls3/development/!svn/ver/8798/lzh/ner-annotation-service-es/target/ner-annotation-es/WEB-INF/classes/edu/kit/aifb/annotation/Description.class
+END
+WikiAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/ls3/development/!svn/ver/8798/lzh/ner-annotation-service-es/target/ner-annotation-es/WEB-INF/classes/edu/kit/aifb/annotation/WikiAnnotation.class
+END
+Entity.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/ls3/development/!svn/ver/8903/lzh/ner-annotation-service-es/target/ner-annotation-es/WEB-INF/classes/edu/kit/aifb/annotation/Entity.class
+END
